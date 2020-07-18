@@ -1,0 +1,52 @@
+.row {
+    padding: 10px 0;
+}
+
+.align-center {
+    display: flex;
+    align-items: center;
+}
+
+.contacts-block {
+    width: 100%;
+}
+
+.contact {
+    padding: 20px 0;
+}
+
+.contact span {
+    margin-right: 10px;
+}
+
+.contact-block {
+    display: flex;
+}
+.contact-block .item {
+    width: 100%;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.contact-block .item-image {
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.image {
+    max-height: 100px;
+    max-width: 100px
+}
+
+.image-big {
+    max-height: 200px;
+    max-width: 200px
+}
+
+.error {
+    color: red;
+}
